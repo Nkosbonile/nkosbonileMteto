@@ -12,6 +12,6 @@
 
 
 ### 🧩 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nkosbonilemteto)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](nkosbonilemteto04@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkosbonilemteto) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nkosbonilemteto04@gmail.com)
